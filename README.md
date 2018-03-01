@@ -1,8 +1,5 @@
 # StayTrue
 
-
-![icon](https://github.com/liaoyuanng/StayTrue/blob/master/icon.png) Stay True
-
 Live Demo ---> http://imliaoyuan.com
 
 `Stay True`是一款`Jeklly`的主题，是基于[H2O](https://github.com/kaeyleo/jekyll-theme-H2O)修改。感谢[作者](http://liaokeyu.com)提供如此简洁的主题。
